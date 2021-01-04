@@ -1,0 +1,250 @@
+country_name;M49_code;ISO_alpha2_code;ISO_alpha3_code;least_developed_countries;land_locked_developing_countries;small_island_developing_states
+Afghanistan;4;AF;AFG;x;x;
+Åland Islands;248;AX;ALA;;;
+Albania;8;AL;ALB;;;
+Algeria;12;DZ;DZA;;;
+American Samoa;16;AS;ASM;;;x
+Andorra;20;AD;AND;;;
+Angola;24;AO;AGO;x;;
+Anguilla;660;AI;AIA;;;x
+Antarctica;10;AQ;ATA;;;
+Antigua and Barbuda;28;AG;ATG;;;x
+Argentina;32;AR;ARG;;;
+Armenia;51;AM;ARM;;x;
+Aruba;533;AW;ABW;;;x
+Australia;36;AU;AUS;;;
+Austria;40;AT;AUT;;;
+Azerbaijan;31;AZ;AZE;;x;
+Bahamas;44;BS;BHS;;;x
+Bahrain;48;BH;BHR;;;
+Bangladesh;50;BD;BGD;x;;
+Barbados;52;BB;BRB;;;x
+Belarus;112;BY;BLR;;;
+Belgium;56;BE;BEL;;;
+Belize;84;BZ;BLZ;;;x
+Benin;204;BJ;BEN;x;;
+Bermuda;60;BM;BMU;;;
+Bhutan;64;BT;BTN;x;x;
+Bolivia (Plurinational State of);68;BO;BOL;;x;
+Bonaire, Sint Eustatius and Saba;535;BQ;BES;;;x
+Bosnia and Herzegovina;70;BA;BIH;;;
+Botswana;72;BW;BWA;;x;
+Bouvet Island;74;BV;BVT;;;
+Brazil;76;BR;BRA;;;
+British Indian Ocean Territory;86;IO;IOT;;;
+British Virgin Islands;92;VG;VGB;;;x
+Brunei Darussalam;96;BN;BRN;;;
+Bulgaria;100;BG;BGR;;;
+Burkina Faso;854;BF;BFA;x;x;
+Burundi;108;BI;BDI;x;x;
+Cabo Verde;132;CV;CPV;;;x
+Cambodia;116;KH;KHM;x;;
+Cameroon;120;CM;CMR;;;
+Canada;124;CA;CAN;;;
+Cayman Islands;136;KY;CYM;;;
+Central African Republic;140;CF;CAF;x;x;
+Chad;148;TD;TCD;x;x;
+Chile;152;CL;CHL;;;
+China;156;CN;CHN;;;
+China, Hong Kong Special Administrative Region;344;HK;HKG;;;
+China, Macao Special Administrative Region;446;MO;MAC;;;
+Christmas Island;162;CX;CXR;;;
+Cocos (Keeling) Islands;166;CC;CCK;;;
+Colombia;170;CO;COL;;;
+Comoros;174;KM;COM;x;;x
+Congo;178;CG;COG;;;
+Cook Islands;184;CK;COK;;;x
+Costa Rica;188;CR;CRI;;;
+Côte d’Ivoire;384;CI;CIV;;;
+Croatia;191;HR;HRV;;;
+Cuba;192;CU;CUB;;;x
+Curaçao;531;CW;CUW;;;x
+Cyprus;196;CY;CYP;;;
+Czechia;203;CZ;CZE;;;
+Democratic People's Republic of Korea;408;KP;PRK;;;
+Democratic Republic of the Congo;180;CD;COD;x;;
+Denmark;208;DK;DNK;;;
+Djibouti;262;DJ;DJI;x;;
+Dominica;212;DM;DMA;;;x
+Dominican Republic;214;DO;DOM;;;x
+Ecuador;218;EC;ECU;;;
+Egypt;818;EG;EGY;;;
+El Salvador;222;SV;SLV;;;
+Equatorial Guinea;226;GQ;GNQ;;;
+Eritrea;232;ER;ERI;x;;
+Estonia;233;EE;EST;;;
+Eswatini;748;SZ;SWZ;;x;
+Ethiopia;231;ET;ETH;x;x;
+Falkland Islands (Malvinas);238;FK;FLK;;;
+Faroe Islands;234;FO;FRO;;;
+Fiji;242;FJ;FJI;;;x
+Finland;246;FI;FIN;;;
+France;250;FR;FRA;;;
+French Guiana;254;GF;GUF;;;
+French Polynesia;258;PF;PYF;;;x
+French Southern Territories;260;TF;ATF;;;
+Gabon;266;GA;GAB;;;
+Gambia;270;GM;GMB;x;;
+Georgia;268;GE;GEO;;;
+Germany;276;DE;DEU;;;
+Ghana;288;GH;GHA;;;
+Gibraltar;292;GI;GIB;;;
+Greece;300;GR;GRC;;;
+Greenland;304;GL;GRL;;;
+Grenada;308;GD;GRD;;;x
+Guadeloupe;312;GP;GLP;;;
+Guam;316;GU;GUM;;;x
+Guatemala;320;GT;GTM;;;
+Guernsey;831;GG;GGY;;;
+Guinea;324;GN;GIN;x;;
+Guinea-Bissau;624;GW;GNB;x;;x
+Guyana;328;GY;GUY;;;x
+Haiti;332;HT;HTI;x;;x
+Heard Island and McDonald Islands;334;HM;HMD;;;
+Holy See;336;VA;VAT;;;
+Honduras;340;HN;HND;;;
+Hungary;348;HU;HUN;;;
+Iceland;352;IS;ISL;;;
+India;356;IN;IND;;;
+Indonesia;360;ID;IDN;;;
+Iran (Islamic Republic of);364;IR;IRN;;;
+Iraq;368;IQ;IRQ;;;
+Ireland;372;IE;IRL;;;
+Isle of Man;833;IM;IMN;;;
+Israel;376;IL;ISR;;;
+Italy;380;IT;ITA;;;
+Jamaica;388;JM;JAM;;;x
+Japan;392;JP;JPN;;;
+Jersey;832;JE;JEY;;;
+Jordan;400;JO;JOR;;;
+Kazakhstan;398;KZ;KAZ;;x;
+Kenya;404;KE;KEN;;;
+Kiribati;296;KI;KIR;x;;x
+Kuwait;414;KW;KWT;;;
+Kyrgyzstan;417;KG;KGZ;;x;
+Lao People's Democratic Republic;418;LA;LAO;x;x;
+Latvia;428;LV;LVA;;;
+Lebanon;422;LB;LBN;;;
+Lesotho;426;LS;LSO;x;x;
+Liberia;430;LR;LBR;x;;
+Libya;434;LY;LBY;;;
+Liechtenstein;438;LI;LIE;;;
+Lithuania;440;LT;LTU;;;
+Luxembourg;442;LU;LUX;;;
+Madagascar;450;MG;MDG;x;;
+Malawi;454;MW;MWI;x;x;
+Malaysia;458;MY;MYS;;;
+Maldives;462;MV;MDV;;;x
+Mali;466;ML;MLI;x;x;
+Malta;470;MT;MLT;;;
+Marshall Islands;584;MH;MHL;;;x
+Martinique;474;MQ;MTQ;;;
+Mauritania;478;MR;MRT;x;;
+Mauritius;480;MU;MUS;;;x
+Mayotte;175;YT;MYT;;;
+Mexico;484;MX;MEX;;;
+Micronesia (Federated States of);583;FM;FSM;;;x
+Monaco;492;MC;MCO;;;
+Mongolia;496;MN;MNG;;x;
+Montenegro;499;ME;MNE;;;
+Montserrat;500;MS;MSR;;;x
+Morocco;504;MA;MAR;;;
+Mozambique;508;MZ;MOZ;x;;
+Myanmar;104;MM;MMR;x;;
+Namibia;516;NA;NAM;;;
+Nauru;520;NR;NRU;;;x
+Nepal;524;NP;NPL;x;x;
+Netherlands;528;NL;NLD;;;
+New Caledonia;540;NC;NCL;;;x
+New Zealand;554;NZ;NZL;;;
+Nicaragua;558;NI;NIC;;;
+Niger;562;NE;NER;x;x;
+Nigeria;566;NG;NGA;;;
+Niue;570;NU;NIU;;;x
+Norfolk Island;574;NF;NFK;;;
+North Macedonia;807;MK;MKD;;x;
+Northern Mariana Islands;580;MP;MNP;;;x
+Norway;578;NO;NOR;;;
+Oman;512;OM;OMN;;;
+Pakistan;586;PK;PAK;;;
+Palau;585;PW;PLW;;;x
+Panama;591;PA;PAN;;;
+Papua New Guinea;598;PG;PNG;;;x
+Paraguay;600;PY;PRY;;x;
+Peru;604;PE;PER;;;
+Philippines;608;PH;PHL;;;
+Pitcairn;612;PN;PCN;;;
+Poland;616;PL;POL;;;
+Portugal;620;PT;PRT;;;
+Puerto Rico;630;PR;PRI;;;x
+Qatar;634;QA;QAT;;;
+Republic of Korea;410;KR;KOR;;;
+Republic of Moldova;498;MD;MDA;;x;
+Réunion;638;RE;REU;;;
+Romania;642;RO;ROU;;;
+Russian Federation;643;RU;RUS;;;
+Rwanda;646;RW;RWA;x;x;
+Saint Barthélemy;652;BL;BLM;;;
+Saint Helena;654;SH;SHN;;;
+Saint Kitts and Nevis;659;KN;KNA;;;x
+Saint Lucia;662;LC;LCA;;;x
+Saint Martin (French Part);663;MF;MAF;;;
+Saint Pierre and Miquelon;666;PM;SPM;;;
+Saint Vincent and the Grenadines;670;VC;VCT;;;x
+Samoa;882;WS;WSM;;;x
+San Marino;674;SM;SMR;;;
+Sao Tome and Principe;678;ST;STP;x;;x
+Sark;680;;;;;
+Saudi Arabia;682;SA;SAU;;;
+Senegal;686;SN;SEN;x;;
+Serbia;688;RS;SRB;;;
+Seychelles;690;SC;SYC;;;x
+Sierra Leone;694;SL;SLE;x;;
+Singapore;702;SG;SGP;;;x
+Sint Maarten (Dutch part);534;SX;SXM;;;x
+Slovakia;703;SK;SVK;;;
+Slovenia;705;SI;SVN;;;
+Solomon Islands;90;SB;SLB;x;;x
+Somalia;706;SO;SOM;x;;
+South Africa;710;ZA;ZAF;;;
+South Georgia and the South Sandwich Islands;239;GS;SGS;;;
+South Sudan;728;SS;SSD;x;x;
+Spain;724;ES;ESP;;;
+Sri Lanka;144;LK;LKA;;;
+State of Palestine;275;PS;PSE;;;
+Sudan;729;SD;SDN;x;;
+Suriname;740;SR;SUR;;;x
+Svalbard and Jan Mayen Islands;744;SJ;SJM;;;
+Sweden;752;SE;SWE;;;
+Switzerland;756;CH;CHE;;;
+Syrian Arab Republic;760;SY;SYR;;;
+Tajikistan;762;TJ;TJK;;x;
+Thailand;764;TH;THA;;;
+Timor-Leste;626;TL;TLS;x;;x
+Togo;768;TG;TGO;x;;
+Tokelau;772;TK;TKL;;;
+Tonga;776;TO;TON;;;x
+Trinidad and Tobago;780;TT;TTO;;;x
+Tunisia;788;TN;TUN;;;
+Turkey;792;TR;TUR;;;
+Turkmenistan;795;TM;TKM;;x;
+Turks and Caicos Islands;796;TC;TCA;;;
+Tuvalu;798;TV;TUV;x;;x
+Uganda;800;UG;UGA;x;x;
+Ukraine;804;UA;UKR;;;
+United Arab Emirates;784;AE;ARE;;;
+United Kingdom of Great Britain and Northern Ireland;826;GB;GBR;;;
+United Republic of Tanzania;834;TZ;TZA;x;;
+United States Minor Outlying Islands;581;UM;UMI;;;
+United States of America;840;US;USA;;;
+United States Virgin Islands;850;VI;VIR;;;x
+Uruguay;858;UY;URY;;;
+Uzbekistan;860;UZ;UZB;;x;
+Vanuatu;548;VU;VUT;;;x
+Venezuela (Bolivarian Republic of);862;VE;VEN;;;
+Viet Nam;704;VN;VNM;;;
+Wallis and Futuna Islands;876;WF;WLF;;;
+Western Sahara;732;EH;ESH;;;
+Yemen;887;YE;YEM;x;;
+Zambia;894;ZM;ZMB;x;x;
+Zimbabwe;716;ZW;ZWE;;x;
