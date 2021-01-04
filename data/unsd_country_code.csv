@@ -1,6 +1,6 @@
 "country_name" ;M49_code;"ISO_alpha2_code" ; "ISO_alpha3_code" ;least_developed_countries;land_locked_developing_countries;small_island_developing_states
 "Afghanistan" ;4;"AF" ; "AFG" ;x;x;
-"Åland Islands" ;248;"AX" ; "ALA" ;;;
+"Ã…land Islands" ;248;"AX" ; "ALA" ;;;
 "Albania" ;8;"AL" ; "ALB" ;;;
 "Algeria" ;12;"DZ" ; "DZA" ;;;
 "American Samoa" ;16;"AS" ; "ASM" ;;;x
@@ -55,10 +55,10 @@
 "Congo" ;178;"CG" ; "COG" ;;;
 "Cook Islands" ;184;"CK" ; "COK" ;;;x
 "Costa Rica" ;188;"CR" ; "CRI" ;;;
-"Côte d’Ivoire" ;384;"CI" ; "CIV" ;;;
+"CÃ´te dâ€™Ivoire" ;384;"CI" ; "CIV" ;;;
 "Croatia" ;191;"HR" ; "HRV" ;;;
 "Cuba" ;192;"CU" ; "CUB" ;;;x
-"Curaçao" ;531;"CW" ; "CUW" ;;;x
+"CuraÃ§ao" ;531;"CW" ; "CUW" ;;;x
 "Cyprus" ;196;"CY" ; "CYP" ;;;
 "Czechia" ;203;"CZ" ; "CZE" ;;;
 "Democratic People's Republic of Korea" ;408;"KP" ; "PRK" ;;;
@@ -180,11 +180,11 @@
 "Qatar" ;634;"QA" ; "QAT" ;;;
 "Republic of Korea" ;410;"KR" ; "KOR" ;;;
 "Republic of Moldova" ;498;"MD" ; "MDA" ;;x;
-"Réunion" ;638;"RE" ; "REU" ;;;
+"RÃ©union" ;638;"RE" ; "REU" ;;;
 "Romania" ;642;"RO" ; "ROU" ;;;
 "Russian Federation" ;643;"RU" ; "RUS" ;;;
 "Rwanda" ;646;"RW" ; "RWA" ;x;x;
-"Saint Barthélemy" ;652;"BL" ; "BLM" ;;;
+"Saint BarthÃ©lemy" ;652;"BL" ; "BLM" ;;;
 "Saint Helena" ;654;"SH" ; "SHN" ;;;
 "Saint Kitts and Nevis" ;659;"KN" ; "KNA" ;;;x
 "Saint Lucia" ;662;"LC" ; "LCA" ;;;x
